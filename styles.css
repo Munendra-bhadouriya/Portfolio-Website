@@ -201,6 +201,7 @@
 }
 
 .user-image img{
+    height: 395px;
     z-index: -1;
 }
 
